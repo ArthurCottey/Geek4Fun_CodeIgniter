@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost:8888/Geek4Fun_CodeIgniter';
+    public $baseURL = 'http://localhost/Geek4Fun_CodeIgniter';
 
     /**
      * --------------------------------------------------------------------------
