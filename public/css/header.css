@@ -1,0 +1,171 @@
+/* en tête de page */
+
+header{
+    background-color: #4C50D6;
+}
+.nav-img{
+    margin-left: 2%;
+}
+.nav-link{
+    color: #fdc007;
+}
+.nav-link:hover{
+    color: white;
+
+}
+ul{
+    margin-right: 20%;
+}
+li{
+    margin-left: 10%;
+}
+.container-timer{
+    background-color:#6275e7 ;
+    border-radius: 10px;
+}
+#imgtete{
+    width: 100%;
+
+}
+
+
+/* accueil */
+
+.bg-cover {
+    background-size: cover !important;
+}
+body{
+    background-color:  #5FD2AC;
+}
+
+
+
+/* pied de page*/
+footer{
+    background-color: #4C50D6;
+
+}
+.footer-basic {
+
+    background-color: #4C50D6;
+    color: #fdc007;
+}
+
+.footer-basic ul {
+    margin-left: 8%;
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+}
+
+.footer-basic li {
+    padding:0 10px;
+}
+
+.footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+}
+
+.footer-basic ul a:hover {
+    color: white;
+}
+
+.footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color: #fdc007;
+
+
+}
+
+.footer-basic .social > a:hover {
+    opacity:0.9;
+    color: white;
+    border:1px solid #fdc007;
+}
+
+.footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+}
+
+
+/* Carousel*/
+
+.carousel-nav-icon {
+    height: 48px;
+    width: 48px;
+}
+.carousel-item
+.col, .col-md {
+    margin: 8px;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+carousel slide {
+    color: #171717;
+    height: 100vh;
+    min-height: 150%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Cosplay */
+
+.avatar {
+    vertical-align: middle;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.form-control{
+    width: 300px;
+}
+.gj-datepicker-bootstrap button[role=right-icon] {
+    width: 2.5rem;
+    margin-top: 7.5px;
+    height: 2.4rem;
+}
+
+#titre-nav{
+    text-decoration: none;
+    color: #fdc007;
+}
+/* Page inscription */
+.gj-textbox-md{
+
+    height: 40px;
+    width: 300px;
+    margin-top: 5px;
+    text-align: center;
+
+}
+.gj-icon{
+
+    margin-top: 10px;
+}

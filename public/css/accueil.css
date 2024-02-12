@@ -1,0 +1,29 @@
+/* Carousel*/
+
+.carousel-nav-icon {
+    height: 48px;
+    width: 48px;
+}
+.carousel-item
+.col, .col-sm, .col-md {
+    margin: 8px;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+carousel slide {
+    color: #171717;
+    height: 100vh;
+    min-height: 150%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
